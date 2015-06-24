@@ -1,1 +1,1 @@
-This is the jekyll source of my personal website, [s8f.org](http://s8f.org/).
+This is the jekyll source of the Homeless Hands organization website, [homelesshands.org](http://homelesshands.org/).
